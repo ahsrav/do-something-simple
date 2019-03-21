@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Strings translated to Spanish-->
+<resources>
+    <string name="generate">Generar número aleatorio</string>
+</resources>
